@@ -1,4 +1,3 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
 
 <h3 align="center">Hello! My name is John Shellabarger, I am a full-stack software engineer based in Denver, Colorado. ⛰️:</h3>
@@ -28,5 +27,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshellabarger&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnshellabarger&theme=light)
 
