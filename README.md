@@ -5,7 +5,9 @@
 
 ## 📫 GET IN TOUCH
 <a target="_blank" href="https://www.linkedin.com/in/johnshellabarger/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="John Shellabarger | LinkedIn" width="30px"/></a>
-<a target="_blank" href="https://medium.com/@johnwilliamshellabarger"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Steve Vaughn | Medium" width="30px"/></a>
+<a target="_blank" href="https://medium.com/@johnwilliamshellabarger"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="John Shellabarger | Medium" width="30px"/></a>
+<a href="mailto:johnshellabarger@gmail.com?subject=Hello%20John"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="John Shellabarger | Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <br>
 
