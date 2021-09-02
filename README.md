@@ -5,8 +5,7 @@
 
 ## 📫 GET IN TOUCH
 
-<a href="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John Shellabarger | Linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<a href="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="John Shellabarger | Linkedin" /></a>
 <a target="_blank" href="https://medium.com/@johnwilliamshellabarger"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="John Shellabarger | Medium" width="30px"/></a>
 <a href="mailto:johnshellabarger@gmail.com?subject=Hello%20John"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="John Shellabarger | Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
