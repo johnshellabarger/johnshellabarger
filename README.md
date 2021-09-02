@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Hello! My name is John Shellabarger, I am a full-stack software engineer based in Denver, Colorado. ⛰️:</h3>
+<h3 align="center">Hello! My name is John Shellabarger, I am a full-stack software engineer based in Denver, Colorado. ⛰️</h3>
 <brc>
 
 ## 📫 GET IN TOUCH
@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+<br>
   
 ## &#x1f4c8; GitHub Stats
 
