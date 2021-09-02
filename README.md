@@ -1,13 +1,13 @@
 <h3 align="center">Hello! My name is John Shellabarger, I am a full-stack software engineer based in Denver, Colorado. ⛰️:</h3>
 <brc>
 
-## 📫: Get in touch:  
+## 📫 GET IN TOUCH
 <a target="_blank" href="https://www.linkedin.com/in/johnshellabarger/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="John Shellabarger | LinkedIn" width="30px"/></a>
 <a target="_blank" href="https://medium.com/@johnwilliamshellabarger"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Steve Vaughn | Medium" width="30px"/></a>
 
 <br>
 
-## 🚀: Skills:  
+## 🚀 SKILLS 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
