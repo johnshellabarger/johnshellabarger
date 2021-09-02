@@ -2,7 +2,7 @@
 <brc>
 
 ## :handshake: Get in touch:  
-<a target="_blank" href="https://www.linkedin.com/in/johnshellabarger/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="John Shellabarger | LinkedIn" width="60px"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/johnshellabarger/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="John Shellabarger | LinkedIn" width="40px"/></a>
 <br>
 
 ## :handshake: Skills:  
