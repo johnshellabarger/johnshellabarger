@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Hello! My name is John Shellabarger, I am a full-stack software engineer based in Denver, Colorado. ⛰️</h3>
+<h3 align="center">Hello! My name is John Shellabarger, I am a full-stack software engineer based in Denver, Colorado. </h3>
 <brc>
 
 ## 📫 GET IN TOUCH
